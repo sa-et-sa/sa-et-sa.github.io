@@ -3,6 +3,7 @@
     "name": "sugar",
     "short_name": "sugar",
     "start_url": "https://sa-et-sa.github.io",
+    "scope": "https://sa-et-sa.github.io",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
